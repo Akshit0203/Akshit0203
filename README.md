@@ -7,8 +7,6 @@
 
 - 🎓 4th-year B.Tech student in **Computer Science and Engineering**
 - 🛡️ Passionate about **Offensive Security, Blue Teaming, and Cloud Security**
-- 🔭 Currently working on my **Final Year Project**:  
-  **AI-Powered Threat Detection System for Network Traffic**
 - 📍 Based in **Delhi, India**
 - 📫 Reach me at: **contactakshit5@gmail.com**
 
@@ -19,22 +17,22 @@
 - ✅ **CEH v13 (Certified Ethical Hacker)** — EC-Council  
 - ✅ **CEH Practical v13** — EC-Council  
 - ✅ **eJPT (eLearnSecurity Junior Penetration Tester)**  
-- ✅ **AWS Certified SysOps Administrator – Associate**  
+- ✅ **AWS Certified Solutions Architect – Associate**
 - ✅ **AWS Associate (from Craw Security)**  
 - ✅ **CCNA (Cisco Certified Network Associate)**  
 - ✅ **CompTIA Network+**  
 - ✅ **CompTIA Security+**  
 - ✅ **IoT Pentesting Certification** — Craw Security  
-- 🎯 **Preparing for**: CHFI, TryHackMe SOC L1
+- ✅ **CHFI (Computer Hacking Forensic Investigator)** — EC-Council
+- 🎯 **Preparing for**: TryHackMe SOC L1
 
 ---
+
 ### 🛡️ My Cybersecurity Badges
 
 <a href="https://tryhackme.com/p/Akshit1">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Akshit1.png" alt="TryHackMe Badge" />
 </a>
-
-
 
 ---
 
@@ -66,18 +64,6 @@
 
 #### 🧪 Special Interests
 `Raspberry Pi` • `IoT Security` • `ADS-B` • `Flipper Zero` • `HackRF / PortaPack`
-
----
-
-### 📊 GitHub Stats (Optional)
-
-<!-- You can uncomment these once you have some activity -->
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" alt="github stats" />
-</p>
--->
 
 ---
 
