@@ -83,8 +83,7 @@
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-- 🐙 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akshit023/)
 - ✉️ Email: **contactakshit5@gmail.com**
 
 ---
