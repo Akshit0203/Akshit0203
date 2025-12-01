@@ -75,27 +75,6 @@
 
 ---
 
-### 🚀 Featured / Planned Projects
-
-> Create repos with these names and link them here later.
-
-- **AI-Powered Threat Detection System for Network Traffic**  
-  _Final year capstone project focusing on ML-based anomaly detection in network flows._
-
-- **Enterprise Network Monitoring with Zabbix**  
-  Zabbix deployment on Ubuntu for real-time monitoring of office network resources, uptime, and alerts.
-
-- **GCP Security Hardening Toolkit**  
-  Scripts and documentation for auditing IAM roles, firewall rules, logging, and storage security on GCP.
-
-- **IoT & ADS-B Security Lab**  
-  Experiments with **HackRF + PortaPack**, **Raspberry Pi**, and **ADS-B** signal decoding and analysis.
-
-- **VAPT Playgrounds & Reports**  
-  Redacted versions of vulnerability assessment/penetration testing reports and lab notes.
-
----
-
 ### 📊 GitHub Stats (Optional)
 
 <!-- You can uncomment these once you have some activity -->
