@@ -50,12 +50,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0203&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Akshit0203&layout=compact" alt="top languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshit0203&theme=transparent" alt="streak stats" />
 </p>
+
 
 
 
