@@ -5,7 +5,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 4th-year B.Tech student in **Computer Science / Cybersecurity**
+- 🎓 4th-year B.Tech student in **Computer Science and Engineering**
 - 🛡️ Passionate about **Offensive Security, Blue Teaming, and Cloud Security**
 - 🔭 Currently working on my **Final Year Project**:  
   **AI-Powered Threat Detection System for Network Traffic**
