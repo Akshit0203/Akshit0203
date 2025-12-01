@@ -9,7 +9,7 @@
 - 🛡️ Passionate about **Offensive Security, Blue Teaming, and Cloud Security**
 - 🔭 Currently working on my **Final Year Project**:  
   **AI-Powered Threat Detection System for Network Traffic**
-- 📍 Based in **Delhi,India**
+- 📍 Based in **Delhi, India**
 - 📫 Reach me at: **contactakshit5@gmail.com**
 
 ---
