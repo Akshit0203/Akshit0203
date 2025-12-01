@@ -50,3 +50,5 @@
 ---
 
 > 💡 **Tip:** I use GitHub to document my learning journey in cybersecurity — feel free to check my repositories, labs, and notes!
+
+[Github Stats](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
