@@ -28,10 +28,11 @@
 - 🎯 **Preparing for**: CHFI, TryHackMe SOC L1
 
 ---
-
 ### 🛡️ My Cybersecurity Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Akshit1.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/Akshit1">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Akshit1.png" alt="TryHackMe Badge" />
+</a>
 
 
 
