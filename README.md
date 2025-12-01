@@ -37,8 +37,8 @@
 - 🔍 **SOC & Blue Teaming**: log analysis, SIEM fundamentals, incident response
 - 💣 **Vulnerability Assessment & Penetration Testing**: labs, real-world projects
 - ☁️ **Cloud Security** on AWS & GCP
-- 🧪 **IoT & Hardware Security**: ADS-B signal processing, Flipper Zero, HackRF, Raspberry Pi projects
-- 🤖 Using **AI for Threat Detection** (core of my final year project)
+- 🧪 **IoT & Hardware Security**: ADS-B, signal processing, Flipper Zero, HackRF, Raspberry Pi projects
+- 🤖 Using **AI for Threat Detection**
 
 ---
 
