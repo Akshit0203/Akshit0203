@@ -29,6 +29,12 @@
 
 ---
 
+### 🛡️ My Cybersecurity Badges
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Akshit%201.png)](https://tryhackme.com/p/Akshit%201)
+
+---
+
 ### 🧠 What I’m Learning / Working On
 
 - 🔍 **SOC & Blue Teaming**: log analysis, SIEM fundamentals, incident response
@@ -50,7 +56,7 @@
 `Zabbix` • `Docker` (if applicable) • `VPNs` • `Firewall basics`
 
 #### ☁️ Cloud & Platforms
-`AWS` • `GCP` • (Add `Azure` if you use it)
+`AWS` • `GCP`
 
 #### 🧰 Programming & Scripting
 `Python` • `Bash` • `PowerShell` (if applicable)
@@ -76,7 +82,7 @@
 
 - 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
 - 🐙 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- ✉️ Email: **[YOUR EMAIL]**
+- ✉️ Email: **contactakshit5@gmail.com**
 
 ---
 
