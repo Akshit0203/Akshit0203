@@ -14,21 +14,6 @@
 
 ---
 
-### 💼 Experience
-
-#### 🧑‍💻 Junior Cybersecurity Analyst Intern — CyberSec
-- Performed **Network Security assessments** and **VAPT** for client environments  
-- Analyzed and hardened services like **OpenSSH, Apache**, and other exposed services  
-- Deployed and managed **Zabbix on Ubuntu** for real-time monitoring of Aegis Covenant’s office network  
-- Conducted **vulnerability assessments** using tools like:
-  - `Nmap`, `OpenVAS`, `OWASP ZAP`, and other open-source tools  
-- Worked on **GCP Security Analysis**:
-  - IAM review, network security, logging & monitoring, data protection, and incident response recommendations  
-- Researched **FASTag architecture**, potential **copy/replay attacks**, and vulnerabilities in toll & parking systems  
-- Assisted with **incident response**, log analysis, and improving security processes
-
----
-
 ### 🏅 Certifications
 
 - ✅ **CEH v13 (Certified Ethical Hacker)** — EC-Council  
