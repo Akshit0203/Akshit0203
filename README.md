@@ -14,18 +14,14 @@
 
 ### 🏅 Certifications
 
-- ✅ **CEH v13 (Certified Ethical Hacker)** — EC-Council  
-- ✅ **CEH Practical v13** — EC-Council  
+- ✅ **CEH v13 (Certified Ethical Hacker) - both theory and practical** — EC-Council
+- ✅ **CHFI (Computer Hacking Forensic Investigator)** — EC-Council
 - ✅ **eJPT (eLearnSecurity Junior Penetration Tester)**  
 - ✅ **AWS Certified Solutions Architect – Associate**
-- ✅ **AWS Associate (from Craw Security)**  
+- ✅ **AWS Certified Cloud Practitioner**  
 - ✅ **CCNA (Cisco Certified Network Associate)**  
 - ✅ **CompTIA Network+**  
 - ✅ **CompTIA Security+**  
-- ✅ **IoT Pentesting Certification** — Craw Security  
-- ✅ **CHFI (Computer Hacking Forensic Investigator)** — EC-Council
-- 🎯 **Preparing for**: TryHackMe SOC L1
-
 ---
 
 ### 🛡️ My Cybersecurity Badges
@@ -43,27 +39,6 @@
 - ☁️ **Cloud Security** on AWS & GCP
 - 🧪 **IoT & Hardware Security**: ADS-B signal processing, Flipper Zero, HackRF, Raspberry Pi projects
 - 🤖 Using **AI for Threat Detection** (core of my final year project)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 🔐 Security & Pentest
-`Nmap` • `OpenVAS` • `OWASP ZAP` • `Burp Suite` • `Wireshark` • `Metasploit`  
-`Hydra` • `John the Ripper` • `Hashcat` • `Gobuster` • `Nikto`
-
-#### 🌐 Networking & Infra
-`Cisco Routers/Switches` • `Linux (Ubuntu, Kali)` • `iptables` • `SSH`  
-`Zabbix` • `Docker` (if applicable) • `VPNs` • `Firewall basics`
-
-#### ☁️ Cloud & Platforms
-`AWS` • `GCP`
-
-#### 🧰 Programming & Scripting
-`Python` • `Bash` • `PowerShell` (if applicable)
-
-#### 🧪 Special Interests
-`Raspberry Pi` • `IoT Security` • `ADS-B` • `Flipper Zero` • `HackRF / PortaPack`
 
 ---
 
