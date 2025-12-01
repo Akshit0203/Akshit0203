@@ -51,15 +51,4 @@
 
 > 💡 **Tip:** I use GitHub to document my learning journey in cybersecurity — feel free to check my repositories, labs, and notes!
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshit0203&show_icons=true&theme=transparent" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=transparent" alt="top languages" />
-</p>
-
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom svg" />
