@@ -46,16 +46,17 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshit0203&show_icons=true&theme=transparent" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshit0203&show_icons=true" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=transparent" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0203&layout=compact" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshit0203&theme=transparent" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Akshit0203" alt="streak stats" />
 </p>
+
 
 ---
 
