@@ -31,7 +31,8 @@
 
 ### 🛡️ My Cybersecurity Badges
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Akshit%201.png)](https://tryhackme.com/p/Akshit%201)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Akshit%201.png)](https://tryhackme.com/p/Akshit%201)
+
 
 ---
 
