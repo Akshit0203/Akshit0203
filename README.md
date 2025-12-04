@@ -8,7 +8,6 @@
 - 🎓 4th-year B.Tech student in **Computer Science and Engineering**
 - 🛡️ Passionate about **Offensive Security, Blue Teaming, and Cloud Security**
 - 📍 Based in **Delhi, India**
-- 📫 Reach me at: **contactakshit5@gmail.com**
 
 ---
 
