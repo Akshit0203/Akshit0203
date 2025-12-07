@@ -65,9 +65,3 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akshit023/)
 - ✉️ Email: **contactakshit5@gmail.com**
-
----
-
-> 💡 **Tip:** I use GitHub to document my learning journey in cybersecurity — feel free to check my repositories, labs, and notes!
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom svg" />
