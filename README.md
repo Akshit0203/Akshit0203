@@ -15,7 +15,6 @@
 
 - ✅ **CEH v13 (Certified Ethical Hacker) - both theory and practical** — EC-Council
 - ✅ **CHFI (Computer Hacking Forensic Investigator)** — EC-Council
-- ✅ **eJPT (eLearnSecurity Junior Penetration Tester)**  
 - ✅ **AWS Certified Solutions Architect – Associate**
 - ✅ **AWS Certified Cloud Practitioner**  
 - ✅ **CCNA (Cisco Certified Network Associate)**  
