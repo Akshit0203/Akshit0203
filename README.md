@@ -59,7 +59,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=dark" alt="top languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&theme=dark" alt="top languages" />
       </td>
       <td>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit0203&theme=react-dark" alt="trophy" />
