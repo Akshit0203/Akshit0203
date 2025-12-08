@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=dark" alt="top languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshit0203&theme=dracula&row=1&column=4" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshit0203&theme=darkhub&no-frame=true&row=1&column=4" alt="trophy" />
 </p>
 
 
