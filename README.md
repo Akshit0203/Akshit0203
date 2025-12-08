@@ -40,7 +40,7 @@
 - 🤖 Using **AI for Threat Detection**
 
 ---
-### 📊 My GitHub Stats (Compact)
+### 📊 My GitHub Stats
 
 <p align="center">
   <table>
