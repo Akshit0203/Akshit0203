@@ -72,4 +72,3 @@
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akshit023/)
-- ✉️ Email: **contactakshit5@gmail.com**
