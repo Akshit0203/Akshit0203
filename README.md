@@ -72,3 +72,9 @@
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akshit023/)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:6600FF&height=90&section=footer"/>
+</p>
