@@ -47,13 +47,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshit0203&show_icons=true&theme=dark" alt="github stats" />
+        <img width="350" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshit0203&show_icons=true&theme=dark" alt="github stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=dark" alt="top languages" />
+        <img width="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=dark" alt="top languages" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshit0203&theme=dark" alt="streak stats" />
+        <img width="350" src="https://github-readme-streak-stats-eight.vercel.app?user=Akshit0203&theme=dark" alt="streak stats" />
       </td>
     </tr>
   </table>
