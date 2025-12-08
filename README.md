@@ -23,7 +23,7 @@
 
 ---
 
-### 🛡️ My Cybersecurity Badges
+### 🛡️ TryHackMe Profile
 
 <a href="https://tryhackme.com/p/Akshit1">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Akshit1.png" alt="Your Image Badge" />
