@@ -73,6 +73,8 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akshit023/)
 
+ **[LinkedIn](https://www.linkedin.com/in/Akshit023/)** 
+
 ---
 
 <p align="center">
