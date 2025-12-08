@@ -62,7 +62,7 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&theme=dark" alt="top languages" />
       </td>
       <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit0203&theme=react-dark" alt="trophy" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit0203&theme=github-dark&hide_border=true&area=true" alt="contribution graph" />
       </td>
     </tr>
   </table>
