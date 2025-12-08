@@ -43,21 +43,9 @@
 
 ### 📊 My GitHub Stats (Compact)
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshit0203&show_icons=true&theme=dark&card_width=450" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=dark&card_width=350" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshit0203&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshit0203&show_icons=true&theme=dark&card_width=420" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=dark&card_width=420" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshit0203&theme=dark&card_width=420" />
 
 
 
