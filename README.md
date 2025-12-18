@@ -73,7 +73,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akshit023/)
 
-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ---
 
