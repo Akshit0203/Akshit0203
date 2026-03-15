@@ -26,7 +26,7 @@
 ### 🛡️ TryHackMe Profile
 
 <a href="https://tryhackme.com/p/Akshit1">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2101963" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Akshit1.png" alt="Your Image Badge" />
 </a>
 
 ---
