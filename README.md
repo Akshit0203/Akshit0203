@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit</h1>
-<h3 align="center">Junior Cybersecurity Analyst | Aspiring SOC / Pentest Engineer</h3>
+<h3 align="center">Cybersecurity Analyst
 
 ---
 
