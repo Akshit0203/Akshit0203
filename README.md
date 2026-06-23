@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit</h1>
-<h3 align="center">Cybersecurity Analyst
+<h3 align="center">Cybersecurity Engineer
 
 ---
 
