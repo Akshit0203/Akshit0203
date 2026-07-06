@@ -9,11 +9,11 @@ I build tools, prototypes, and research projects to better understand how system
 ## Current Focus
 
 - Security Engineering
+- AI Security
+- Cloud Security
 - Detection Engineering
 - Digital Forensics
-- AI Security
 - Embedded & IoT Security
-- Cloud Security
 
 ## Contact
 
