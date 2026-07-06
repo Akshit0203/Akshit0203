@@ -1,80 +1,190 @@
-<h1 align="center">Hi 👋, I'm Akshit</h1>
-<h3 align="center">Cybersecurity Engineer
+# Akshit
+
+Security Engineer focused on offensive security, defensive security, digital forensics, cloud security, embedded systems, and secure system design.
+
+I enjoy building security tools, researching attack techniques, understanding how modern systems fail, and designing practical defensive solutions.
 
 ---
 
-### 👨‍🎓 About Me
+## Current Focus
 
-- 🎓 4th-year B.Tech student in **Computer Science and Engineering**
-- 🛡️ Passionate about **Offensive Security, Blue Teaming, Cloud Security and AI Security**
-- 📍 Based in **Delhi, India**
-
----
-
-### 🏅 Certifications
-
-- ✅ **CEH v13 (Certified Ethical Hacker) - both theory and practical** — EC-Council
-- ✅ **CHFI (Computer Hacking Forensic Investigator)** — EC-Council
-- ✅ **AWS Certified Solutions Architect – Associate**
-- ✅ **AWS Certified Cloud Practitioner**  
-- ✅ **CCNA (Cisco Certified Network Associate)**  
-- ✅ **CompTIA Network+**  
-- ✅ **CompTIA Security+**
+- Offensive Security
+- Security Engineering
+- Active Directory Security
+- Detection Engineering
+- Digital Forensics
+- Cloud Security
+- Embedded & IoT Security
+- Drone Security Research
+- AI Security
 
 ---
 
-### 🛡️ TryHackMe Profile
+## Areas of Expertise
 
-<a href="https://tryhackme.com/p/Akshit1">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Akshit1.png" alt="Your Image Badge" />
-</a>
+- Penetration Testing
+- Network Security
+- Digital Forensics
+- Incident Response
+- Threat Detection
+- Threat Modeling
+- Security Automation
+- Operating System Internals
+- Wireless Security
+- RF Security
+- Hardware Hacking
+
+---
+
+## Technologies
+
+### Languages
+
+- Python
+- Bash
+- PowerShell
+- C
+- C++
+- Java
+
+### Operating Systems
+
+- Kali Linux
+- Ubuntu
+- Debian
+- Windows
+- Windows Server
+
+### Security Tools
+
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- Hashcat
+- Gobuster
+- Bettercap
+- OpenVAS
+- Autopsy
+- FTK Imager
+- Splunk
+- Wazuh
+- ELK Stack
+
+### Cloud
+
+- AWS
+- Microsoft Azure
+- Oracle Cloud Infrastructure
+
+### Hardware
+
+- ESP32
+- Raspberry Pi
+- HackRF One
+- Flipper Zero
+- RTL-SDR
 
 ---
 
-### 🧠 What I’m Learning / Working On
+## Security Domains
 
-- 🔍 **SOC & Blue Teaming**: log analysis, SIEM fundamentals, incident response
-- 💣 **Vulnerability Assessment & Penetration Testing**: labs, real-world projects
-- ☁️ **Cloud Security** on AWS & GCP
-- 🧪 **IoT & Hardware Security**: ADS-B, signal processing, Flipper Zero, HackRF, Raspberry Pi projects
-- 🤖 Using **AI for Threat Detection**
+- Application Security
+- Infrastructure Security
+- Network Security
+- Endpoint Security
+- Cloud Security
+- Active Directory Security
+- Wireless Security
+- IoT Security
+- Digital Forensics
+- Malware Analysis
+- Threat Intelligence
 
 ---
-### 📊 My GitHub Stats
+
+## Featured Projects
+
+### WiFi CSI Human Presence Detection
+
+Real-time human detection using WiFi Channel State Information with ESP32-S3 devices.
+
+**Tech**
+
+- ESP-IDF
+- ESP32
+- Python
+- WebSockets
+
+---
+
+### VoIP Security Lab
+
+Research environment for SIP protocol analysis, spoofing simulations, and VoIP traffic inspection.
+
+---
+
+### Raspberry Pi Weather & AQI Dashboard
+
+Desktop dashboard integrating weather, AQI, maps, and voice alerts.
+
+---
+
+### Security Automation
+
+Collection of Python utilities for
+
+- Log Analysis
+- IOC Processing
+- Threat Hunting
+- Network Reconnaissance
+- Evidence Parsing
+
+---
+
+## Research Interests
+
+- AI for Cybersecurity
+- AI Security
+- Autonomous Detection Systems
+- Secure System Design
+- RF Security
+- Drone Security
+- Hardware Security
+- Wireless Exploitation
+- ICS / OT Security
+- Digital Forensics
+
+---
+
+## Certifications
+
+- CEH
+- CHFI
+- CompTIA Security+
+- CompTIA Network+
+- CCNA
+- AWS Solutions Architect – Associate
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals
+- Microsoft Security, Compliance & Identity Fundamentals
+- Oracle Cloud Infrastructure Certifications
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshit0203&show_icons=true&theme=dark" alt="github stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshit0203&theme=dark" alt="streak stats" />
-      </td>
-    </tr>
-  </table>
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0203&layout=compact&theme=dark" alt="top languages" />
-      </td>
-    </tr>
-  </table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true"/>
 </p>
-
-
 
 ---
 
-### 📫 Connect With Me
+## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/akshit023/)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:6600FF&height=90&section=footer"/>
-</p>
+- LinkedIn
+- Email
