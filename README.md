@@ -17,5 +17,4 @@ I build tools, prototypes, and research projects to better understand how system
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/akshit023
