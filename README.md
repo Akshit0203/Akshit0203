@@ -1,17 +1,19 @@
 # Akshit
 
-Security Engineer focused on building secure systems, offensive security, digital forensics, cloud security, embedded systems, and AI security.
+Security Engineer building secure systems, security tooling, and applied security research.
 
-I enjoy designing security tooling, researching attack techniques, and developing practical defensive solutions through engineering and applied research.
+My work focuses on offensive security, detection engineering, digital forensics, cloud security, embedded systems, AI security, and operating system internals.
+
+I build tools, prototypes, and research projects to better understand how systems fail—and how to make them more resilient.
 
 ## Current Focus
 
 - Security Engineering
 - Detection Engineering
 - Digital Forensics
+- AI Security
 - Embedded & IoT Security
 - Cloud Security
-- AI Security
 
 ## Contact
 
