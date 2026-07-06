@@ -6,7 +6,7 @@
 ### 👨‍🎓 About Me
 
 - 🎓 4th-year B.Tech student in **Computer Science and Engineering**
-- 🛡️ Passionate about **Offensive Security, Blue Teaming, and Cloud Security**
+- 🛡️ Passionate about **Offensive Security, Blue Teaming, Cloud Security and AI Security**
 - 📍 Based in **Delhi, India**
 
 ---
