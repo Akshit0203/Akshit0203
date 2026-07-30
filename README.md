@@ -11,9 +11,6 @@ I build tools, prototypes, and research projects to better understand how system
 - Security Engineering
 - AI Security
 - Cloud Security
-- Detection Engineering
-- Digital Forensics
-- Embedded & IoT Security
 
 ## Contact
 
