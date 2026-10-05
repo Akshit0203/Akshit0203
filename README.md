@@ -2,6 +2,8 @@
 
 Security Engineer building secure systems, security tooling, and applied security research.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Akshit0203&label=Profile%20Views&color=0e75b6&style=flat)
+
 My work focuses on offensive security, detection engineering, digital forensics, cloud security, embedded systems, AI security, and operating system internals.
 
 I build tools, prototypes, and research projects to better understand how systems fail—and how to make them more resilient.
