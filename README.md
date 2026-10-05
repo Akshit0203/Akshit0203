@@ -15,5 +15,3 @@ I build tools, prototypes, and research projects to better understand how system
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/akshit023
-
-![Profile Views](https://komarev.com/ghpvc/?username=Akshit0203&label=Profile%20Views&style=flat)
