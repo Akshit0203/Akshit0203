@@ -20,10 +20,6 @@ Cloud Security: AWS Security · Azure · IAM · Cloud Threat Modeling · Contain
 
 Penetration Testing: Web & API Security · Network Security · Active Directory · Exploitation · Privilege Escalation · Vulnerability Assessment
 
-## Engineering
-
-`Python` · `Bash` · `PowerShell` · `C/C++` · `Nmap` · `Burp Suite` · `Wireshark` · `Metasploit` · `Nessus` · `OpenVAS` · `Splunk` · `Wazuh` · `Docker` · `Git`
-
 ## Certifications
 
 - **CompTIA:** Security+, Network+
