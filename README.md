@@ -1,5 +1,3 @@
-# Akshit
-
 Security Engineer building secure systems, security tooling, and applied security research.
 
 My work focuses on offensive security, AI security, cloud security, detection engineering, digital forensics, embedded systems and operating system internals.
