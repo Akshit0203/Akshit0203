@@ -22,13 +22,9 @@ I build tools, prototypes, and research projects to better understand how system
 
 ## Contact
 
-<div>
-  <a href="https://linkedin.com/in/akshit023">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=0066FF&label=Profile%20Views" alt="Profile Views"/>
-</div>
-
+<a href="https://linkedin.com/in/akshit023">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0066FF,100:0D1117&height=100&section=footer&animation=twinkling" alt="footer"/>
 </div>
