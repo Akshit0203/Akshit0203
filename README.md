@@ -13,8 +13,11 @@ I build tools, prototypes, and research projects to better understand how system
 ## Technical Focus
 
 **Offensive Security:** Web & API Security · Network Security · Active Directory · Vulnerability Research
+
 **Defensive Security:** Detection Engineering · SIEM · EDR/XDR · Digital Forensics · Incident Response
+
 **Cloud & Infrastructure:** AWS · Azure · OCI · Linux · Windows · Docker
+
 **Research:** AI Security · Wireless/RF · IoT Security · Embedded Systems · OS Internals
 
 ## Engineering
