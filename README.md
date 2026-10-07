@@ -8,7 +8,7 @@ Security Engineer focused on building secure systems, security tooling, and appl
 
 My work spans offensive security, AI security, cloud security, and security engineering.
 
-I build tools, prototypes, and research projects to understand how systems fail—and engineer them to be more resilient.
+I build tools, prototypes, and research projects to understand how systems fail and engineer them to be more resilient.
 
 ## Technical Focus
 
