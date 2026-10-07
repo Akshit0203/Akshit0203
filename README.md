@@ -10,11 +10,15 @@ My work focuses on offensive security, AI security, cloud security, detection en
 
 I build tools, prototypes, and research projects to better understand how systems fail—and how to make them more resilient.
 
-## Current Focus
+## Certifications
 
-- Security Engineering
-- AI Security
-- Cloud Security
+- **CompTIA:** Security+, Network+
+- **EC-Council:** Certified Ethical Hacker (CEH) Master — Theory + Practical, Computer Hacking Forensic Investigator (CHFI)
+- **INE Security:** Certified Cloud Associate (ICCA)
+- **AWS:** Solutions Architect – Associate, AI Business Strategist, Cloud Practitioner
+- **Cisco:** Cisco Certified Network Associate (CCNA)
+- **Microsoft:** Security, Compliance, and Identity Fundamentals (SC-900), Azure AI Fundamentals (AI-900), Azure Fundamentals (AZ-900)
+- **TryHackMe:** Cyber Security 101 (SEC1) · Top 2% Global Rank · 215+ Rooms Completed
 
 ## Contact
 
