@@ -4,11 +4,11 @@
 
 </div>
 
-Security Engineer building secure systems, security tooling, and applied security research.
+Security Engineer focused on building secure systems, security tooling, and applied security research.
 
-My work focuses on offensive security, AI security, cloud security, detection engineering, digital forensics, embedded systems, and operating system internals.
+My work spans offensive security, AI security, cloud security, and security engineering.
 
-I build tools, prototypes, and research projects to better understand how systems fail—and how to make them more resilient.
+I build tools, prototypes, and research projects to understand how systems fail—and engineer them to be more resilient.
 
 ## Technical Focus
 
