@@ -12,6 +12,4 @@ I build tools, prototypes, and research projects to better understand how system
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/akshit023
-
-[LinkedIn](https://www.linkedin.com/akshit023)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit023)
