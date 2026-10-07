@@ -1,3 +1,11 @@
+<div align="center">
+
+<a href="https://thinkingtokens.ai/about">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:7209B7,100:FF3864&height=220&section=header&text=nur.gucu&fontColor=ffffff&fontSize=85&fontAlignY=38&animation=fadeIn&stroke=FF3864&strokeWidth=1&desc=AI%20Red%20Teamer%20%E2%80%A2%20Offensive%20Security%20Researcher%20%E2%80%A2%20Chaotic%20Thinker&descSize=16&descAlignY=62&descAlign=50" alt="banner"/>
+</a>
+
+<br/>
+
 Security Engineer building secure systems, security tooling, and applied security research.
 
 My work focuses on offensive security, AI security, cloud security, detection engineering, digital forensics, embedded systems and operating system internals.
@@ -10,8 +18,10 @@ I build tools, prototypes, and research projects to better understand how system
 - AI Security
 - Cloud Security
 
-## Contact
 
+
+## Contact
+<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit023)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3864,50:7209B7,100:0D1117&height=120&section=footer&fontColor=ffffff&fontSize=32&fontAlignY=70&animation=twinkling"/>
 </div>
