@@ -12,13 +12,10 @@ I build tools, prototypes, and research projects to better understand how system
 
 ## Technical Focus
 
-**Security Engineering:** Detection Engineering · SIEM · EDR/XDR · Digital Forensics · Incident Response · Security Architecture
-
-**AI Security:** AI Red Teaming · LLM Security · AI Threat Modeling · Adversarial Testing · AI Security Research
-
-**Cloud Security:** AWS · Azure · OCI · Cloud Security Architecture · IAM · Container Security
-
-**Penetration Testing:** Web & API Security · Network Security · Active Directory · Vulnerability Research · Security Assessment
+Security Engineering: Security Architecture · Detection Engineering · Threat Detection · SIEM · EDR/XDR · Incident Response
+AI Security: AI Red Teaming · LLM Security · AI Threat Modeling · Adversarial Testing · AI Security Research
+Cloud Security: AWS Security · Azure · IAM · Cloud Threat Modeling · Container Security · Cloud Security Architecture · Cloud Detection & Monitoring
+Penetration Testing: Web & API Security · Network Security · Active Directory · Exploitation · Privilege Escalation · Vulnerability Assessment
 
 ## Engineering
 
