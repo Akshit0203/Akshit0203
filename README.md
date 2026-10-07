@@ -4,7 +4,7 @@
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=0066FF&label=Profile%20Views" alt="Profile Views"/>
-[![committers.top badge](https://user-badge.committers.top/india_private/Akshit0203.svg)](https://user-badge.committers.top/india_private/Akshit0203)
+[![Committers.top](https://user-badge.committers.top/india_private/Akshit0203.svg)](https://user-badge.committers.top/india_private/Akshit0203)
 Security Engineer building secure systems, security tooling, and applied security research.
 
 My work focuses on offensive security, AI security, cloud security, detection engineering, digital forensics, embedded systems, and operating system internals.
