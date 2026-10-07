@@ -10,6 +10,17 @@ My work focuses on offensive security, AI security, cloud security, detection en
 
 I build tools, prototypes, and research projects to better understand how systems fail—and how to make them more resilient.
 
+## Technical Focus
+
+**Offensive Security:** Web & API Security · Network Security · Active Directory · Vulnerability Research
+**Defensive Security:** Detection Engineering · SIEM · EDR/XDR · Digital Forensics · Incident Response
+**Cloud & Infrastructure:** AWS · Azure · OCI · Linux · Windows · Docker
+**Research:** AI Security · Wireless/RF · IoT Security · Embedded Systems · OS Internals
+
+## Engineering
+
+`Python` · `Bash` · `PowerShell` · `C/C++` · `Nmap` · `Burp Suite` · `Wireshark` · `Metasploit` · `Nessus` · `OpenVAS` · `Splunk` · `Wazuh` · `Docker` · `Git`
+
 ## Certifications
 
 - **CompTIA:** Security+, Network+
