@@ -13,6 +13,5 @@ I build tools, prototypes, and research projects to better understand how system
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit023)
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3864,50:7209B7,100:0D1117&height=120&section=footer&text=%24%20logout&fontColor=ffffff&fontSize=32&fontAlignY=70&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3864,50:7209B7,100:0D1117&height=120&section=footer&fontColor=ffffff&fontSize=32&fontAlignY=70&animation=twinkling"/>
 </div>
