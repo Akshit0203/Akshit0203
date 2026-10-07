@@ -22,10 +22,10 @@ I build tools, prototypes, and research projects to better understand how system
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit023)
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0066FF,100:0D1117&height=70&section=footer&fontColor=ffffff&fontSize=20&fontAlignY=70&animation=twinkling" alt="footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit023)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0066FF,100:0D1117&height=70&section=footer&animation=twinkling" alt="footer"/>
 
 </div>
