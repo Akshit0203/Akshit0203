@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0066FF,100:00BFFF&height=200&section=header&text=Akshit&fontColor=ffffff&fontSize=85&fontAlignY=38&animation=fadeIn&stroke=00BFFF&strokeWidth=1&desc=Security%20Engineering%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Cloud%20Security&descSize=16&descAlignY=62&descAlign=50" alt="Akshit — Cybersecurity"/>
 
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=0066FF&label=Profile%20Views" alt="Profile Views"/>
 Security Engineer building secure systems, security tooling, and applied security research.
 
 My work focuses on offensive security, AI security, cloud security, detection engineering, digital forensics, embedded systems, and operating system internals.
