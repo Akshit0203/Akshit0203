@@ -34,81 +34,81 @@ I build tools, prototypes, and research projects to understand how systems fail 
 
 ### AI Security & Automation
 
-| Category | Project |
-|---|---|
-| AI Security | AI-Powered Cybersecurity Automation with ShellGPT & OpenAI API |
-| Security Operations | Enterprise-Grade Incident Handling & Threat Investigation with Splunk SIEM |
-| Security Operations | Wazuh SIEM Deployment & Threat Detection |
+| Category | Project Name | Link |
+|---|---|---|
+| AI Security | AI-Powered Cybersecurity Automation with ShellGPT & OpenAI API | — |
+| Security Operations | Enterprise-Grade Incident Handling & Threat Investigation with Splunk SIEM | — |
+| Security Operations | Wazuh SIEM Deployment & Threat Detection | — |
 
 ### Wireless & RF Security
 
-| Category | Project |
-|---|---|
-| RF Security | Drone Signal Interception & Replay Attack using HackRF One + PortaPack H2+ |
-| RF Security | GPS Spoofing Demonstration using HackRF One |
-| RF Security | GSM, Wi-Fi & Bluetooth Jamming Research using HackRF |
-| RF Security | IMSI Catcher — GSM Network Analysis using HackRF + DragonOS |
-| RF Security | IMSI Catcher — GSM Network Analysis using HackRF + SigintOS |
-| RF Security | RF Message Injection Research — Simulating the 2024 Lebanon Pager Attack |
-| SDR | Real-Time Aircraft Tracking using ADS-B & Mode S Decoding |
-| Wireless Security | Wi-Fi Deauthentication & Password Cracking Analysis |
-| Wireless Security | Wi-Fi Credential Harvesting using Flipper Zero + Marauder |
-| Wireless Security | Wireless HID Attack using Flipper Zero |
-| Wireless Security | Car Key Fob Replay Attack Vulnerability Analysis using HackRF |
-| Wireless Security | Technical Analysis of Delhi Metro Card using Flipper Zero |
+| Category | Project Name | Link |
+|---|---|---|
+| RF Security | Drone Signal Interception & Replay Attack using HackRF One + PortaPack H2+ | — |
+| RF Security | GPS Spoofing Demonstration using HackRF One | — |
+| RF Security | GSM, Wi-Fi & Bluetooth Jamming Research using HackRF | — |
+| RF Security | IMSI Catcher — GSM Network Analysis using HackRF + DragonOS | — |
+| RF Security | IMSI Catcher — GSM Network Analysis using HackRF + SigintOS | — |
+| RF Security | RF Message Injection Research — Simulating the 2024 Lebanon Pager Attack | — |
+| SDR | Real-Time Aircraft Tracking using ADS-B & Mode S Decoding | — |
+| Wireless Security | Wi-Fi Deauthentication & Password Cracking Analysis | — |
+| Wireless Security | Wi-Fi Credential Harvesting using Flipper Zero + Marauder | — |
+| Wireless Security | Wireless HID Attack using Flipper Zero | — |
+| Wireless Security | Car Key Fob Replay Attack Vulnerability Analysis using HackRF | [Repository](https://github.com/Akshit0203/Car-Key-Fob-Replay-Attack-Vulnerability-Analysis-Using-HackRF-with-PortaPack-H2-) |
+| Wireless Security | Technical Analysis of Delhi Metro Card using Flipper Zero | [Repository](https://github.com/Akshit0203/delhi-metro-desfire-transit-card-flipper-analysis) |
 
 ### Network & VoIP Security
 
-| Category | Project |
-|---|---|
-| VoIP Security | VoIP Call Spoofing System using Magnus Billing on Debian 11 VPS |
-| VoIP Security | Real-Time VoIP Call Interception & Analysis using Wireshark |
-| Email Security | Email Spoofing Simulation using Social-Engineer Toolkit (SET) |
-| Network Automation | Multi-threaded Port Scanner using Python |
-| Reconnaissance | Bug Bounty Recon Automation |
+| Category | Project Name | Link |
+|---|---|---|
+| VoIP Security | VoIP Call Spoofing System using Magnus Billing on Debian 11 VPS | — |
+| VoIP Security | Real-Time VoIP Call Interception & Analysis using Wireshark | [Repository](https://github.com/Akshit0203/voip-traffic-interception-analysis) |
+| Email Security | Email Spoofing Simulation using Social-Engineer Toolkit (SET) | — |
+| Network Automation | Multi-threaded Port Scanner using Python | [Repository](https://github.com/Akshit0203/Multi-threaded-Port-Scanner-Python) |
+| Reconnaissance | Bug Bounty Recon Automation | [Repository](https://github.com/Akshit0203/bugbounty-recon-automation) |
 
 ### Digital Forensics & Incident Investigation
 
-| Category | Project |
-|---|---|
-| Memory Forensics | RAM Forensics with Magnet AXIOM — Volatile Memory Analysis |
-| Digital Forensics | Deleted Data Recovery & Forensic Imaging using FTK Imager + Autopsy |
-| Drone Forensics | PX4 Flight Log Analysis |
-| Windows Forensics | Windows Password Recovery & Data Recovery using Hiren's Bootable USB |
+| Category | Project Name | Link |
+|---|---|---|
+| Memory Forensics | RAM Forensics with Magnet AXIOM — Volatile Memory Analysis | — |
+| Digital Forensics | Deleted Data Recovery & Forensic Imaging using FTK Imager + Autopsy | [Repository](https://github.com/Akshit0203/USB-Forensic-Imaging-and-Data-Recovery-Lab) |
+| Drone Forensics | PX4 Flight Log Analysis | [Repository](https://github.com/Akshit0203/uav-forensics-px4-flight-log-analysis) |
+| Windows Forensics | Windows Password Recovery & Data Recovery using Hiren's Bootable USB | — |
 
 ### Malware Analysis & Threat Research
 
-| Category | Project |
-|---|---|
-| Android Security | Android RAT Threat Analysis — CraxsRAT |
-| Windows Security | Windows RAT Malware Analysis — XWorm |
+| Category | Project Name | Link |
+|---|---|---|
+| Android Security | Android RAT Threat Analysis — CraxsRAT | [Repository](https://github.com/Akshit0203/android-rat-threat-report) |
+| Windows Security | Windows RAT Malware Analysis — XWorm | [Repository](https://github.com/Akshit0203/Windows-RAT-Malware-Analysis) |
 
 ### Cloud, Linux & Infrastructure Security
 
-| Category | Project |
-|---|---|
-| SIEM | Wazuh SIEM Deployment & Threat Detection |
-| Linux Automation | Bash & Linux Automation |
-| Network Infrastructure | Cisco Routers, Switches & Server Configuration and Management |
+| Category | Project Name | Link |
+|---|---|---|
+| SIEM | Wazuh SIEM Deployment & Threat Detection | — |
+| Linux Automation | Bash & Linux Automation | [Repository](https://github.com/Akshit0203/bash-linux-automation) |
+| Network Infrastructure | Cisco Routers, Switches & Server Configuration and Management | — |
 
 ### IoT & Embedded Systems
 
-| Category | Project |
-|---|---|
-| IoT Security | Wi-Fi Camera Hacking Simulation |
-| Raspberry Pi Security | AI-Powered Smart Door Security System with Facial Recognition |
-| IoT Automation | Secure IoT Home Automation & Monitoring Platform |
-| Embedded Systems | Sensor Interfacing & Data Acquisition using Scientech 2311 |
-| Embedded Systems | Intelligent Fill Control System for Water Tanks |
-| Wireless Sensing | Distributed Wi-Fi CSI Human Sensing |
-| Wireless Sensing | Wi-Fi CSI Human Radar |
+| Category | Project Name | Link |
+|---|---|---|
+| IoT Security | Wi-Fi Camera Hacking Simulation | [Repository](https://github.com/Akshit0203/wifi-camera-mitm) |
+| Raspberry Pi Security | AI-Powered Smart Door Security System with Facial Recognition | [Repository](https://github.com/Akshit0203/AI-Powered-Smart-Door-Security-IoT-Monitoring-System) |
+| IoT Automation | Secure IoT Home Automation & Monitoring Platform | [Repository](https://github.com/Akshit0203/secure-iot-home-automation) |
+| Embedded Systems | Sensor Interfacing & Data Acquisition using Scientech 2311 | [Repository](https://github.com/Akshit0203/scientech-2311-sensor-interfacing-lab) |
+| Embedded Systems | Intelligent Fill Control System for Water Tanks | [Repository](https://github.com/Akshit0203/Intelligent-Fill-Control-System-for-Water-Tanks) |
+| Wireless Sensing | Distributed Wi-Fi CSI Human Sensing | [Repository](https://github.com/Akshit0203/distributed-wifi-csi-human-sensing) |
+| Wireless Sensing | Wi-Fi CSI Human Radar | [Repository](https://github.com/Akshit0203/wifi-csi-human-radar) |
 
 ### AI, Computer Vision & Data Analytics
 
-| Category | Project |
-|---|---|
-| Computer Vision | Python Vehicle Number Plate Recognition |
-| Business Intelligence | Power BI Dashboard — Sales & Order Analytics |
+| Category | Project Name | Link |
+|---|---|---|
+| Computer Vision | Python Vehicle Number Plate Recognition | — |
+| Business Intelligence | Power BI Dashboard — Sales & Order Analytics | [Repository](https://github.com/Akshit0203/Power-BI-Dashboard-Sales-Order-Analytics) |
 
 ---
 
