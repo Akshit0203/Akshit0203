@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:6A0DAD,100:9400FF&height=220&section=header&text=Akshit&fontColor=ffffff&fontSize=85&fontAlignY=38&animation=fadeIn&stroke=9400FF&strokeWidth=1&desc=Security%20Engineering%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Cloud%20Security%20%E2%80%A2%20Penetration%20Testing&descSize=16&descAlignY=62&descAlign=50" alt="Akshit — Cybersecurity"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,25:8000FF,50:6A0DAD,75:9932CC,100:4B0082&height=220&section=header&text=Akshit&fontColor=ffffff&fontSize=85&fontAlignY=38&animation=fadeIn&stroke=8000FF&strokeWidth=1&desc=Security%20Engineering%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Cloud%20Security%20%E2%80%A2%20Penetration%20Testing&descSize=16&descAlignY=62&descAlign=50" alt="Akshit — Cybersecurity"/> 
 
 </div>
 
