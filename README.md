@@ -30,6 +30,90 @@ I build tools, prototypes, and research projects to understand how systems fail 
 - **Microsoft:** Security, Compliance, and Identity Fundamentals (SC-900), Azure AI Fundamentals (AI-900), Azure Fundamentals (AZ-900)
 - **TryHackMe:** Cyber Security 101 (SEC1) · Top 2% Global Rank · 215+ Rooms Completed
 
+## Featured Projects
+
+### AI Security & Automation
+
+| Category | Project |
+|---|---|
+| AI Security | AI-Powered Cybersecurity Automation with ShellGPT & OpenAI API |
+| Security Operations | Enterprise-Grade Incident Handling & Threat Investigation with Splunk SIEM |
+| Security Operations | Wazuh SIEM Deployment & Threat Detection |
+
+### Wireless & RF Security
+
+| Category | Project |
+|---|---|
+| RF Security | Drone Signal Interception & Replay Attack using HackRF One + PortaPack H2+ |
+| RF Security | GPS Spoofing Demonstration using HackRF One |
+| RF Security | GSM, Wi-Fi & Bluetooth Jamming Research using HackRF |
+| RF Security | IMSI Catcher — GSM Network Analysis using HackRF + DragonOS |
+| RF Security | IMSI Catcher — GSM Network Analysis using HackRF + SigintOS |
+| RF Security | RF Message Injection Research — Simulating the 2024 Lebanon Pager Attack |
+| SDR | Real-Time Aircraft Tracking using ADS-B & Mode S Decoding |
+| Wireless Security | Wi-Fi Deauthentication & Password Cracking Analysis |
+| Wireless Security | Wi-Fi Credential Harvesting using Flipper Zero + Marauder |
+| Wireless Security | Wireless HID Attack using Flipper Zero |
+| Wireless Security | Car Key Fob Replay Attack Vulnerability Analysis using HackRF |
+| Wireless Security | Technical Analysis of Delhi Metro Card using Flipper Zero |
+
+### Network & VoIP Security
+
+| Category | Project |
+|---|---|
+| VoIP Security | VoIP Call Spoofing System using Magnus Billing on Debian 11 VPS |
+| VoIP Security | Real-Time VoIP Call Interception & Analysis using Wireshark |
+| Email Security | Email Spoofing Simulation using Social-Engineer Toolkit (SET) |
+| Network Automation | Multi-threaded Port Scanner using Python |
+| Reconnaissance | Bug Bounty Recon Automation |
+
+### Digital Forensics & Incident Investigation
+
+| Category | Project |
+|---|---|
+| Memory Forensics | RAM Forensics with Magnet AXIOM — Volatile Memory Analysis |
+| Digital Forensics | Deleted Data Recovery & Forensic Imaging using FTK Imager + Autopsy |
+| Drone Forensics | PX4 Flight Log Analysis |
+| Windows Forensics | Windows Password Recovery & Data Recovery using Hiren's Bootable USB |
+
+### Malware Analysis & Threat Research
+
+| Category | Project |
+|---|---|
+| Android Security | Android RAT Threat Analysis — CraxsRAT |
+| Windows Security | Windows RAT Malware Analysis — XWorm |
+
+### Cloud, Linux & Infrastructure Security
+
+| Category | Project |
+|---|---|
+| SIEM | Wazuh SIEM Deployment & Threat Detection |
+| Linux Automation | Bash & Linux Automation |
+| Network Infrastructure | Cisco Routers, Switches & Server Configuration and Management |
+
+### IoT & Embedded Systems
+
+| Category | Project |
+|---|---|
+| IoT Security | Wi-Fi Camera Hacking Simulation |
+| Raspberry Pi Security | AI-Powered Smart Door Security System with Facial Recognition |
+| IoT Automation | Secure IoT Home Automation & Monitoring Platform |
+| Embedded Systems | Sensor Interfacing & Data Acquisition using Scientech 2311 |
+| Embedded Systems | Intelligent Fill Control System for Water Tanks |
+| Wireless Sensing | Distributed Wi-Fi CSI Human Sensing |
+| Wireless Sensing | Wi-Fi CSI Human Radar |
+
+### AI, Computer Vision & Data Analytics
+
+| Category | Project |
+|---|---|
+| Computer Vision | Python Vehicle Number Plate Recognition |
+| Business Intelligence | Power BI Dashboard — Sales & Order Analytics |
+
+---
+
+*This portfolio includes hands-on security engineering, offensive security labs, wireless research, digital forensics, automation, and IoT development.*
+
 ## Contact
 
 <p>
