@@ -126,9 +126,9 @@ My goal is to engineer security into systems from the ground up, rather than tre
 
 <p align="center">
   <a href="https://linkedin.com/in/akshit023">
-  <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=0066FF&label=Profile%20Views" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=8000FF&label=Profile%20Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=8000FF&label=Profile%20Views" alt="GitHub Profile Views"/>
 </p>
 
 <div align="center">
