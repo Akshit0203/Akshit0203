@@ -132,5 +132,5 @@ My goal is to engineer security into systems from the ground up, rather than tre
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0066FF,100:0D1117&height=150&section=footer&animation=twinkling" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0066FF,100:0D1117&height=120&section=footer&animation=twinkling" alt="footer"/>
 </div>
