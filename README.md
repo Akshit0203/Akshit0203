@@ -1,5 +1,7 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,20:6A0DAD,40:8000FF,60:9932CC,80:7B2FBE,100:4B0082&height=210&section=header&text=Akshit&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn&stroke=8000FF&strokeWidth=1&desc=Security%20Engineering%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Cloud%20Security%20%E2%80%A2%20Penetration%20Testing&descSize=16&descAlignY=62&descAlign=50" alt="Akshit — Cybersecurity"/>
+
 </div>
 
 ## About Me
@@ -90,11 +92,10 @@ My goal is to engineer security into systems from the ground up, rather than tre
 | Android Security | Android RAT Threat Analysis — CraxsRAT | [Repository](https://github.com/Akshit0203/android-rat-threat-report) |
 | Windows Security | Windows RAT Malware Analysis — XWorm | [Repository](https://github.com/Akshit0203/Windows-RAT-Malware-Analysis) |
 
-### Cloud, Linux & Infrastructure Security
+### Linux & Infrastructure
 
 | Category | Project Name | Link |
 |---|---|---|
-| SIEM | Wazuh SIEM Deployment & Threat Detection | — |
 | Linux Automation | Bash & Linux Automation | [Repository](https://github.com/Akshit0203/bash-linux-automation) |
 | Network Infrastructure | Cisco Routers, Switches & Server Configuration and Management | — |
 
@@ -119,17 +120,17 @@ My goal is to engineer security into systems from the ground up, rather than tre
 
 ---
 
-*This portfolio includes hands-on security engineering, offensive security labs, wireless research, digital forensics, automation, and IoT development.*
+*This portfolio showcases hands-on security engineering, AI automation, offensive security labs, wireless research, digital forensics, and IoT development.*
 
 ## Contact
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/akshit023">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=0066FF&label=Profile%20Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=8000FF&label=Profile%20Views" alt="Profile Views"/>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0066FF,100:0D1117&height=150&section=footer&animation=twinkling" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:0D1117&height=150&section=footer" alt="Purple footer"/>
 </div>
