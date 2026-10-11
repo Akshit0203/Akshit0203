@@ -127,7 +127,7 @@ My goal is to engineer security into systems from the ground up, rather than tre
 ## Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshit023">
+  <a href="https://linkedin.com/in/akshit023" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=8000FF&label=Profile%20Views" alt="Profile Views"/>
