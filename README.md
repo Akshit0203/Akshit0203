@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,20:6A0DAD,40:8000FF,60:9932CC,80:7B2FBE,100:4B0082&height=120&section=header&text=Security%20Engineering%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Cloud%20Security%20%E2%80%A2%20Penetration%20Testing&fontColor=ffffff&fontSize=20&fontAlignY=35&animation=fadeIn&stroke=8000FF&strokeWidth=1" alt="Akshit — Cybersecurity"/>
-
 </div>
 
 ## About Me
@@ -128,7 +126,3 @@ My goal is to engineer security into systems from the ground up, rather than tre
   </a>
   <img src="https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=8000FF&label=Profile%20Views" alt="Profile Views"/>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:0D1117&height=150&section=footer" alt="Purple footer"/>
-</div>
