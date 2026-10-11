@@ -122,12 +122,11 @@ My goal is to engineer security into systems from the ground up, rather than tre
 
 ## Contact
 
-<p>
-  <a href="https://linkedin.com/in/akshit023">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Akshit0203&amp;style=flat-square&amp;color=8000FF&amp;label=Profile%20Views" alt="Profile Views"/>
-</p>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit023)
+![Profile Views](https://komarev.com/ghpvc/?username=Akshit0203&style=flat-square&color=8000FF&label=Profile%20Views)
 
 
 <div align="center">
