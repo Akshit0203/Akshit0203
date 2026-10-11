@@ -57,7 +57,6 @@ My goal is to engineer security into systems from the ground up, rather than tre
 | RF Security | GPS Spoofing Demonstration using HackRF One | [Repository](https://github.com/Akshit0203/gps-spoofing-sdr-aviation-security-research) |
 | RF Security | GSM, Wi-Fi & Bluetooth Jamming Research using HackRF | [Repository](https://github.com/Akshit0203/hackrf-sdr-gsm-wifi-bluetooth-jammer) |
 | RF Security | IMSI Catcher — GSM Network Analysis using HackRF + DragonOS | [Repository](https://github.com/Akshit0203/imsi-catcher-sdr-geolocation) |
-| RF Security | IMSI Catcher — GSM Network Analysis using HackRF + SigintOS | [Same repository](https://github.com/Akshit0203/imsi-catcher-sdr-geolocation) |
 | RF Security | RF Message Injection Research — Simulating the 2024 Lebanon Pager Attack | [Repository](https://github.com/Akshit0203/rf-pocsag-pager-injection-poc) |
 | SDR | Real-Time Aircraft Tracking using ADS-B & Mode S Decoding | [Repository](https://github.com/Akshit0203/aircraft-tracking-sdr-adsb-mode-s) |
 | Wireless Security | Wi-Fi Deauthentication & Password Cracking Analysis | [Repository](https://github.com/Akshit0203/flipper-zero-wifi-security-assessment) |
