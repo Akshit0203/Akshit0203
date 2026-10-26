@@ -37,7 +37,7 @@ My goal is to engineer security into systems from the ground up, rather than tre
 | **Amazon Web Services (AWS)** | Solutions Architect – Associate · AI Business Strategist · Cloud Practitioner |
 | **Cisco** | Cisco Certified Network Associate (CCNA) |
 | **Microsoft** | Security, Compliance, and Identity Fundamentals (SC-900) · Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900) |
-| **TryHackMe** | Cyber Security 101 (SEC1) · Ranked Top 1% Globally · 240+ Rooms Completed · [0xC][LEGEND] (23k+ Points) · Highest Streak: 365 Days · 37+ Badges |
+| **TryHackMe** | Cyber Security 101 (SEC1) · Ranked Top 1% Globally · 250+ Rooms Completed · [0xC][LEGEND] (24k+ Points) · Highest Streak: 377 Days · 37+ Badges |
 
 ## Featured Projects
 
