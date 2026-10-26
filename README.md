@@ -27,18 +27,6 @@ My goal is to engineer security into systems from the ground up, rather than tre
 | Offensive Security | Web & API Security, Network Pentesting, Active Directory, Exploitation, Privilege Escalation |
 | Security Research | Python Automation, Security Tooling, Vulnerability Analysis, Digital Forensics |
 
-## Certifications & Credentials
-
-| Organization | Certification / Credential |
-|---|---|
-| **CompTIA** | Security+ · Network+ |
-| **EC-Council** | Certified Ethical Hacker (CEH) Master — Theory + Practical · Computer Hacking Forensic Investigator (CHFI) |
-| **INE Security** | Certified Cloud Associate (ICCA) |
-| **Amazon Web Services (AWS)** | Solutions Architect – Associate · AI Business Strategist · Cloud Practitioner |
-| **Cisco** | Cisco Certified Network Associate (CCNA) |
-| **Microsoft** | Security, Compliance, and Identity Fundamentals (SC-900) · Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900) |
-| **TryHackMe** | Cyber Security 101 (SEC1) · Ranked Top 1% Globally · 250+ Rooms Completed · [0xC][LEGEND] (24k+ Points) · Highest Streak: 377 Days · 37+ Badges |
-
 ## Featured Projects
 
 ### AI Security & Automation
