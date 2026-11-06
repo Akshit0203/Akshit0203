@@ -112,6 +112,12 @@ My goal is to engineer security into systems from the ground up, rather than tre
 
 *This portfolio showcases security engineering, AI automation, detection engineering, offensive security research, digital forensics, and IoT development.*
 
+### Exploit Development & Vulnerability Research
+
+| Project | Repository |
+|---|---|
+| WordPress Reflex Gallery Plugin RCE — CVE-2015-1201 PoC | [Repository](https://github.com/Akshit0203/CVE-2015-1201-wordpress-Reflex-Gallery-plugin-RCE-PoC) |
+
 ## Contact
 
 <p>
