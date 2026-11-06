@@ -108,15 +108,16 @@ My goal is to engineer security into systems from the ground up, rather than tre
 | Project | Repository |
 |---|---|
 | Power BI Dashboard — Sales & Order Analytics | [Repository](https://github.com/Akshit0203/Power-BI-Dashboard-Sales-Order-Analytics) |
----
-
-*This portfolio showcases security engineering, AI automation, detection engineering, offensive security research, digital forensics, and IoT development.*
 
 ### Exploit Development & Vulnerability Research
 
 | Project | Repository |
 |---|---|
 | WordPress Reflex Gallery Plugin RCE — CVE-2015-1201 PoC | [Repository](https://github.com/Akshit0203/CVE-2015-1201-wordpress-Reflex-Gallery-plugin-RCE-PoC) |
+
+---
+
+*This portfolio showcases security engineering, AI automation, detection engineering, offensive security research, digital forensics, and IoT development.*
 
 ## Contact
 
