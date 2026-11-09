@@ -6,17 +6,16 @@
 
 ## About Me
 
-I'm a cybersecurity professional focused on **Security Engineering, AI Security, and Cloud Security**. I combine offensive security knowledge with defensive engineering to understand how systems fail and to build security into them from the ground up.
+I'm a cybersecurity professional focused on **Security Engineering, AI Security, and Cloud Security**.
 
-## Technical Focus
+I build security tools, investigate attack techniques, and experiment with ways to make systems more resilient. My approach combines offensive security knowledge with defensive engineering to understand how systems fail—and how to secure them.
 
-| Domain | Areas of Focus |
-|---|---|
-| Security Engineering | Security Architecture, Detection Engineering, SIEM, EDR/XDR, Incident Response |
-| AI Security | LLM Security, AI Red Teaming, Adversarial Testing |
-| Cloud Security | AWS, Azure, IAM, Container Security, Cloud Threat Modeling & Detection |
-| Offensive Security | Web & API, Network Pentesting, Active Directory, Privilege Escalation |
-| Security Research | Python Tooling, Vulnerability Analysis, Digital Forensics |
+- **Security Engineering** — Building security tooling, detection capabilities, and resilient systems.
+- **AI Security** — Exploring LLM security, AI red teaming, and emerging AI attack surfaces.
+- **Cloud Security** — Securing cloud architectures, identities, workloads, and infrastructure.
+- **Offensive Security** — Applying penetration testing and exploitation techniques to understand real-world vulnerabilities.
+
+My goal is to engineer security into systems from the ground up, rather than treat it as an afterthought.
 
 ## Featured Projects
 
