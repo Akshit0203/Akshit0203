@@ -6,26 +6,17 @@
 
 ## About Me
 
-I'm a cybersecurity professional focused on **Security Engineering, AI Security, and Cloud Security**.
-
-I build security tools, investigate attack techniques, and experiment with ways to make systems more resilient. My approach combines offensive security knowledge with defensive engineering to understand how systems fail—and how to secure them.
-
-- **Security Engineering** — Building security tooling, detection capabilities, and resilient systems.
-- **AI Security** — Exploring LLM security, AI red teaming, and emerging AI attack surfaces.
-- **Cloud Security** — Securing cloud architectures, identities, workloads, and infrastructure.
-- **Offensive Security** — Applying penetration testing and exploitation techniques to understand real-world vulnerabilities.
-
-My goal is to engineer security into systems from the ground up, rather than treat it as an afterthought.
+I'm a cybersecurity professional focused on **Security Engineering, AI Security, and Cloud Security**. I combine offensive security knowledge with defensive engineering to understand how systems fail and to build security into them from the ground up.
 
 ## Technical Focus
 
 | Domain | Areas of Focus |
 |---|---|
 | Security Engineering | Security Architecture, Detection Engineering, SIEM, EDR/XDR, Incident Response |
-| AI Security | LLM Security, AI Red Teaming, Threat Modeling, Adversarial Testing |
-| Cloud Security | AWS Security, Azure Security, IAM, Cloud Threat Modeling, Cloud Security Architecture, Container Security, Cloud Detection & Monitoring |
-| Offensive Security | Web & API Security, Network Pentesting, Active Directory, Exploitation, Privilege Escalation |
-| Security Research | Python Automation, Security Tooling, Vulnerability Analysis, Digital Forensics |
+| AI Security | LLM Security, AI Red Teaming, Adversarial Testing |
+| Cloud Security | AWS, Azure, IAM, Container Security, Cloud Threat Modeling & Detection |
+| Offensive Security | Web & API, Network Pentesting, Active Directory, Privilege Escalation |
+| Security Research | Python Tooling, Vulnerability Analysis, Digital Forensics |
 
 ## Certifications
 
@@ -34,19 +25,18 @@ My goal is to engineer security into systems from the ground up, rather than tre
 | CompTIA | Security+, Network+ |
 | EC-Council | CEH (Theory + Practical), CHFI |
 | INE Security | eCPPT, eJPT, ICCA |
-| TryHackMe | SEC1 |
 | AWS | Solutions Architect, AI Business Strategist, Cloud Practitioner |
-| Cisco | CCNA |
 | Microsoft | SC-900, AI-900, AZ-900 |
+| Cisco · TryHackMe | CCNA · SEC1 |
 
 ## Practice Platforms
 
 | Platform | Highlights |
 |---|---|
-| TryHackMe | **Top 1%** · 250+ rooms completed · 24k+ points (0xD – Legend) · 37+ badges · Capability score 72 · Highest league: Diamond · 377-day streak |
-| HackTheBox | Level 26 (Apprentice) · 9.5K+ XP · 12 badges |
-| OffSec Proving Grounds | Level 12 (550+ XP) · 31 labs completed · 224h in labs · 60 flags captured |
-| NeetCode | 71 problems solved · Top 12.2% (Python) |
+| TryHackMe | **Top 1%** · 0xD Legend · 250+ rooms · Diamond league · 377-day streak |
+| HackTheBox | Level 26 (Apprentice) · 9.5K+ XP |
+| OffSec Proving Grounds | Level 12 · 31 labs · 60 flags |
+| NeetCode | 71 problems · Top 12.2% (Python) |
 
 ## Featured Projects
 
