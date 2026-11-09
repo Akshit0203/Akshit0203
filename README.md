@@ -18,26 +18,6 @@ I'm a cybersecurity professional focused on **Security Engineering, AI Security,
 | Offensive Security | Web & API, Network Pentesting, Active Directory, Privilege Escalation |
 | Security Research | Python Tooling, Vulnerability Analysis, Digital Forensics |
 
-## Certifications
-
-| Issuer | Certifications |
-|---|---|
-| CompTIA | Security+, Network+ |
-| EC-Council | CEH (Theory + Practical), CHFI |
-| INE Security | eCPPT, eJPT, ICCA |
-| AWS | Solutions Architect, AI Business Strategist, Cloud Practitioner |
-| Microsoft | SC-900, AI-900, AZ-900 |
-| Cisco · TryHackMe | CCNA · SEC1 |
-
-## Practice Platforms
-
-| Platform | Highlights |
-|---|---|
-| TryHackMe | **Top 1%** · 0xD Legend · 250+ rooms · Diamond league · 377-day streak |
-| HackTheBox | Level 26 (Apprentice) · 9.5K+ XP |
-| OffSec Proving Grounds | Level 12 · 31 labs · 60 flags |
-| NeetCode | 71 problems · Top 12.2% (Python) |
-
 ## Featured Projects
 
 ### AI Security & Automation
