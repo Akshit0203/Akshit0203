@@ -27,6 +27,27 @@ My goal is to engineer security into systems from the ground up, rather than tre
 | Offensive Security | Web & API Security, Network Pentesting, Active Directory, Exploitation, Privilege Escalation |
 | Security Research | Python Automation, Security Tooling, Vulnerability Analysis, Digital Forensics |
 
+## Certifications
+
+| Issuer | Certifications |
+|---|---|
+| CompTIA | Security+, Network+ |
+| EC-Council | CEH (Theory + Practical), CHFI |
+| INE Security | eCPPT, eJPT, ICCA |
+| TryHackMe | SEC1 |
+| AWS | Solutions Architect, AI Business Strategist, Cloud Practitioner |
+| Cisco | CCNA |
+| Microsoft | SC-900, AI-900, AZ-900 |
+
+## Practice Platforms
+
+| Platform | Highlights |
+|---|---|
+| TryHackMe | **Top 1%** · 250+ rooms completed · 24k+ points (0xD – Legend) · 37+ badges · Capability score 72 · Highest league: Diamond · 377-day streak |
+| HackTheBox | Level 26 (Apprentice) · 9.5K+ XP · 12 badges |
+| OffSec Proving Grounds | Level 12 (550+ XP) · 31 labs completed · 224h in labs · 60 flags captured |
+| NeetCode | 71 problems solved · Top 12.2% (Python) |
+
 ## Featured Projects
 
 ### AI Security & Automation
