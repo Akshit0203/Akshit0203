@@ -107,8 +107,6 @@ My goal is to engineer security into systems from the ground up, rather than tre
 
 ---
 
-*This portfolio showcases security engineering, AI automation, detection engineering, offensive security research, digital forensics, and IoT development.*
-
 ## Contact
 
 <p>
